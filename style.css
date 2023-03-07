@@ -217,19 +217,19 @@ body {
     background-image: url('images/front/1 (5).jpg ');
     background-size: 350px 500px;
   }
-  50% {
+  40% {
     background-image: url('images/front/1 (6).jpg ');
     background-size: 350px 500px;
   }
-  60% {
+  50% {
     background-image: url('images/front/1(17).jpg ');
     background-size: 350px 500px;
   }
-  70% {
+  60% {
     background-image: url('images/front/1 (10).jpg ');
     background-size: 350px 500px;
   }
-  80% {
+  70% {
     background-image: url('images/front/1 (11).jpg ');
     background-size: 350px 500px;
   }
@@ -245,22 +245,18 @@ body {
     background-image: url('images/front/1 (14).jpg ');
     background-size: 350px 500px;
   }
-  96% {
+  100% {
     background-image: url('images/front/1 (15).jpg ');
     background-size: 350px 500px;
   }
-  97% {
+  110% {
     background-image: url('images/front/1 {16}.jpg ');
     background-size: 350px 500px;
   }
-  100% {
+  110% {
     background-image: url('images/front/1(19).jpg ');
     background-size: 350px 500px;
   }
-
-  
-
-  
 }
 
 
